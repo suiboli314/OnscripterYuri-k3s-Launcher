@@ -138,7 +138,7 @@ $ ./onsyuri-k3s.sh debug
 
 **Game files updated, need to regenerate the index?**
 ```bash
-# nothing need to do. updated immediately.
+$ ./onsyuri-k3s.sh restart
 ```
 
 **Start fresh?**
